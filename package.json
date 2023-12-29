@@ -4,5 +4,12 @@
   "description": "Nithy's npm code",
   "main": "index.js",
   "author": "nithyanandan@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/nithyk/githubtraining-exercise-publish-package.git" 
+  } 
 }
